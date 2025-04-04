@@ -55,6 +55,8 @@ pm = 0.1                  # Mutation probability
 
 ```
 ## Example output
+![bash output](https://github.com/madhu-1999/TSP-solver-using-GA/blob/main/bash_output.png)
+![route](https://github.com/madhu-1999/TSP-solver-using-GA/blob/main/example_output.png)
 
 ## Notes
 + This version assumes exactly 5 cities. You can increase the number by modifying the loop that creates cities.
